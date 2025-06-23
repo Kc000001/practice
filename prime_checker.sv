@@ -1,3 +1,5 @@
+//I Have written an extra code to improve my redability
+
 module tb;
   int prime_array[1000];
   int num;
